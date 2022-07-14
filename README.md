@@ -35,5 +35,5 @@
 
 
 <h3 align="left">CodeWars <a href="https://www.codewars.com/users/nanoface">Profile:</h3>
-<hr size="2">
+<hr style="height:1px;border:none;color:#333;background-color:#333;" />
 <p><img align="center" src="https://www.codewars.com/users/nanoface/badges/large" alt="nanoface"/></p>
