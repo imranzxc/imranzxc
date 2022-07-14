@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imranzxc&label=Profile%20views&color=f50a0a&style=flat" alt="imranzxc" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imranzxc" alt="imranzxc" /></a> </p>
-
 - 🔭 I’m currently working on [Meatsby](https://github.com/imranzxc/solo-project-front)
 
 - 🌱 I’m currently learning **TypeScript**
@@ -29,5 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imranzxc&show_icons=true&theme=dracula&locale=en" alt="imranzxc" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imranzxc&theme=dark" alt="imranzxc" /></p>
-
-
