@@ -30,5 +30,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imranzxc&theme=dark" alt="imranzxc" /></p>
 
 
-<h3 align="left">CodeWars Profile:</h3>
+<h3 align="left">CodeWars <a href="https://www.codewars.com/users/nanoface">Profile:</h3>
 <p><img align="center" src="https://www.codewars.com/users/nanoface/badges/large" alt="nanoface"/></p>
