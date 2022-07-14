@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👽, I'm Imran</h1>
 <h3 align="center">A booming full-stack developer from Russia 🇷🇺</h3>
 
+<h1 align="left"> I write on JavaScript, React, Redux</h1>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imranzxc&label=Profile%20views&color=f50a0a&style=flat" alt="imranzxc" /> </p>
 
 - 🔭 I’m currently working on [Meatsby](https://github.com/imranzxc/solo-project-front)
