@@ -17,7 +17,9 @@
 <h3 align="left">Connect with me:</h3>
 <hr>
 <br>
-(https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white&&s=250)](https://t-do.ru/thels8)
+## contacts:
+   
+   [![telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/rintaruu) 
 <br>
 <h3 align="left">Languages and Tools:</h3>
 <hr>
