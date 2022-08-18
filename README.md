@@ -2,10 +2,11 @@
 <h3 align="center">full-stack developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imranzxc&label=Profile%20views&color=f50a0a&style=flat" alt="imranzxc" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://t.me/nanoface"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-</p>
+<h3 align="left">Пишу на:</h3>
+- JavaScript
+- React
+- Redux
+- Next JS
 
 <h3 align="left">💻 Tech Stack:</h3>
 
@@ -16,6 +17,11 @@
 <h3 align="left">CodeWars <a href="https://www.codewars.com/users/nanoface">Profile:</h3>
 <hr style="border:0.5px solid gray">
 <p><img align="center" src="https://www.codewars.com/users/nanoface/badges/large" alt="nanoface"/></p>
+  
+  <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://t.me/nanoface"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+</p>
   
   
 
