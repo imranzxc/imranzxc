@@ -3,9 +3,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imranzxc&label=Profile%20views&color=f50a0a&style=flat" alt="imranzxc" /> </p>
 
 <h3 align="left">Пишу на:</h3>
+<br>
 - JavaScript
+<br>
 - React
+<br>
 - Redux
+<br>
 - Next JS
 
 <h3 align="left">💻 Tech Stack:</h3>
