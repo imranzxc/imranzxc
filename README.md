@@ -9,7 +9,11 @@
 <p><img align="center" src="https://www.codewars.com/users/nanoface/badges/large" alt="nanoface"/></p>
   
   
+  <br clear="both">
+
 <img href="https://raw.githubusercontent.com/maurodesouza/maurodesouza/blob/output/snake.svg" alt="Snake animation" />
+
+###
 
 
   
