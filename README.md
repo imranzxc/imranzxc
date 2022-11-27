@@ -13,13 +13,13 @@
 
 <br>
 <h3 align="left">Projects:</h3>
-<h4 align="left">💈<a href="https://whimsical-cassata-4e6792.netlify.app">Eddy's barbershop website</h4>
-<h4 align="left">TikTik TS|Next JS app <a href="tiktik-app-pi.vercel.app">📱</h4>
-<h4 align="left">Meatsby food delivery website <a href="https://splendorous-cupcake-f50f06.netlify.app">🍔</h4>
-<h4 align="left">Hielo website<a href="https://imranzxc.github.io/hielo/"> 🏔</h4>
-<h4 align="left">Empelza website<a href="https://imranzxc.github.io/hielo/"> 🌆</h4>
-<h4 align="left">Fighting game Vanilla JS<a href="https://imranzxc.github.io/fighting-game/"> 🕹</h4>
-<h4 align="left">Snake game Vanilla JS<a href="https://imranzxc.github.io/fighting-game/"> 🐍</h4>
+<h4 align="left">💈 <a href="https://whimsical-cassata-4e6792.netlify.app">Eddy's barbershop website</h4>
+<h4 align="left">📱 <a href="tiktik-app-pi.vercel.app">TikTik TS|Next JS app</h4>
+<h4 align="left">🍔 <a href="https://splendorous-cupcake-f50f06.netlify.app">Meatsby food delivery website</h4>
+<h4 align="left">🏔 <a href="https://imranzxc.github.io/hielo/">Hielo website</h4>
+<h4 align="left">🌆 <a href="https://imranzxc.github.io/hielo/">Empelza website</h4>
+<h4 align="left">🕹 <a href="https://imranzxc.github.io/fighting-game/">Fighting game Vanilla JS</h4>
+<h4 align="left">🐍 <a href="https://imranzxc.github.io/fighting-game/">Snake game Vanilla JS</h4>
 <br>
 <h3 align="left">💻 Tech Stack:</h3>
 
