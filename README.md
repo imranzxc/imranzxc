@@ -13,7 +13,7 @@
 
 <br>
 
-<h4 align="left">Eddy's barbershop website 💈<a href="[https://www.codewars.com/users/nanoface](https://whimsical-cassata-4e6792.netlify.app)">Profile:</h4>
+<h4 align="left">Eddy's barbershop website 💈<a href="https://whimsical-cassata-4e6792.netlify.app">Profile:</h4>
 <br>
 <h3 align="left">💻 Tech Stack:</h3>
 
