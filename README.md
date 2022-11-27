@@ -19,7 +19,7 @@
 <h4 align="left">🏔 <a href="https://imranzxc.github.io/hielo/">Hielo website</h4>
 <h4 align="left">🌆 <a href="https://imranzxc.github.io/empelza/">Empelza website</h4>
 <h4 align="left">🕹 <a href="https://imranzxc.github.io/fighting-game/">Fighting game Vanilla JS</h4>
-<h4 align="left">🐍 <a href="https://imranzxc.github.io/snake-game/">Snake game Vanilla JS</h4>
+<h4 align="left">🐍 <a href="https://imranzxc.github.io/snake-game/snake">Snake game Vanilla JS</h4>
 <br>
 <h3 align="left">💻 Tech Stack:</h3>
 
