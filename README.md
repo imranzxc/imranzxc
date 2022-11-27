@@ -12,7 +12,7 @@
 - Next JS
 
 <br>
-<h3> align="left">Projects:></h3>
+<h3 align="left">Projects:></h3>
 <h4 align="left">Eddy's barbershop website <a href="https://whimsical-cassata-4e6792.netlify.app">💈</h4>
 <br>
 <h3 align="left">💻 Tech Stack:</h3>
