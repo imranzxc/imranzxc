@@ -17,9 +17,9 @@
 <h4 align="left">📱 <a href="tiktik-app-pi.vercel.app">TikTik TS|Next JS app</h4>
 <h4 align="left">🍔 <a href="https://splendorous-cupcake-f50f06.netlify.app">Meatsby food delivery website</h4>
 <h4 align="left">🏔 <a href="https://imranzxc.github.io/hielo/">Hielo website</h4>
-<h4 align="left">🌆 <a href="https://imranzxc.github.io/hielo/">Empelza website</h4>
+<h4 align="left">🌆 <a href="https://imranzxc.github.io/empelza/">Empelza website</h4>
 <h4 align="left">🕹 <a href="https://imranzxc.github.io/fighting-game/">Fighting game Vanilla JS</h4>
-<h4 align="left">🐍 <a href="https://imranzxc.github.io/fighting-game/">Snake game Vanilla JS</h4>
+<h4 align="left">🐍 <a href="https://imranzxc.github.io/snake-game/">Snake game Vanilla JS</h4>
 <br>
 <h3 align="left">💻 Tech Stack:</h3>
 
