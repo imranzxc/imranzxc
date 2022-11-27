@@ -15,6 +15,7 @@
 <br>
 <h3 align="left">Projects:</h3>
 <h4 align="left">💈 <a href="https://whimsical-cassata-4e6792.netlify.app">Eddy's barbershop website</h4>
+<h4 align="left">💻 <a href="https://iqa.intocode.ru">intocode iqa website</h4>
 <h4 align="left">📱 <a href="https://tiktik-app-pi.vercel.app">TikTik TS|Next JS app</h4>
 <h4 align="left">🍔 <a href="https://splendorous-cupcake-f50f06.netlify.app">Meatsby food delivery website</h4>
 <h4 align="left">🏔 <a href="https://imranzxc.github.io/hielo/">Hielo website</h4>
