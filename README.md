@@ -13,7 +13,7 @@
 
 <br>
 <h3 align="left">Projects:</h3>
-<h4 align="left">Eddy's barbershop website <a href="https://whimsical-cassata-4e6792.netlify.app">💈</h4>
+<h4 align="left">Eddy's barbershop website <a href="https://whimsical-cassata-4e6792.netlify.app">dd</h4>
 <h4 align="left">TikTik TS|Next JS app <a href="tiktik-app-pi.vercel.app">📱</h4>
 <h4 align="left">Meatsby food delivery website <a href="https://splendorous-cupcake-f50f06.netlify.app">🍔</h4>
 <h4 align="left">Hielo website<a href="https://imranzxc.github.io/hielo/"> 🏔</h4>
