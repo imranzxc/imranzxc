@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👽, I'm Imran</h1>
 <h3 align="center">full-stack developer</h3>
-<h3 align="left"> 🧑🏽‍💻<a href="https://portfolio-gf3051yhk-imranzxc.vercel.app">My personal website</h4>
+<h3 align="left"> 🧑🏽‍💻 <a href="https://portfolio-gf3051yhk-imranzxc.vercel.app">My personal website</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imranzxc&label=Profile%20views&color=f50a0a&style=flat" alt="imranzxc" /> </p>
 
