@@ -32,9 +32,6 @@
 
 
 
-<h3 align="left">CodeWars <a href="https://www.codewars.com/users/nanoface">Profile:</h3>
-<hr style="border:0.5px solid gray">
-<p><img align="center" src="https://www.codewars.com/users/nanoface/badges/large" alt="nanoface"/></p>
   
   <h3 align="left">Connect with me:</h3>
 <p align="left">
