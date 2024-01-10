@@ -22,6 +22,7 @@
 <h4 align="left">📱 <a href="https://tiktik-app-pi.vercel.app">TikTik TS|Next JS app</h4>
 <h4 align="left">🍔 <a href="https://splendorous-cupcake-f50f06.netlify.app">Meatsby food delivery website</h4>
 <h4 align="left">🏔 <a href="https://imranzxc.github.io/hielo/">Hielo website</h4>
+<h4 align="left">🍣 <a href="https://nobu-website.vercel.app/">Nobu website</h4>
 <h4 align="left">🌆 <a href="https://imranzxc.github.io/empelza/">Empelza website</h4>
 <h4 align="left">🕹 <a href="https://imranzxc.github.io/fighting-game/">Fighting game Vanilla JS</h4>
 <h4 align="left">🐍 <a href="https://imranzxc.github.io/snake-game/snake">Snake game Vanilla JS</h4>
