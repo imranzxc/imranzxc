@@ -1,21 +1,11 @@
 <h1 align="center">Hi 👽, I'm Imran</h1>
 <h3 align="center">full-stack developer</h3>
+
+
+
+<br>
+<h3 align="left">Pets:</h3>
 <h3 align="left"> 🧑🏽‍💻 <a href="https://portfolio-gf3051yhk-imranzxc.vercel.app">My personal website</h4>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imranzxc&label=Profile%20views&color=f50a0a&style=flat" alt="imranzxc" /> </p>
-
-<h3 align="left">Пишу на:</h3>
-- JavaScript
-<br>
-- React
-<br>
-- Redux
-<br>
-- Next JS
-
-
-<br>
-<h3 align="left">Projects:</h3>
 <h4 align="left">💈 <a href="https://whimsical-cassata-4e6792.netlify.app">Eddy's barbershop website</h4>
 <h4 align="left">💻 <a href="https://iqa.intocode.ru">Intocode iqa website</h4>
 <h4 align="left">🔫 <a href="https://onyx-gta.com">Onyx website</h4>
