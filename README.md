@@ -5,7 +5,6 @@
 
 <br>
 <h3 align="left">Pets:</h3>
-<h3 align="left"> 🧑🏽‍💻 <a href="https://portfolio-gf3051yhk-imranzxc.vercel.app">My personal website</h4>
 <h4 align="left">💈 <a href="https://whimsical-cassata-4e6792.netlify.app">Eddy's barbershop website</h4>
 <h4 align="left">💻 <a href="https://iqa.intocode.ru">Intocode iqa website</h4>
 <h4 align="left">🔫 <a href="https://onyx-gta.com">Onyx website</h4>
