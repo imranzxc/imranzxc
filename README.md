@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👽, I'm Imran</h1>
-<h3 align="center">full-stack developer</h3>
+<h1 align="center">Imran</h1>
+<h3 align="center">Software dev</h3>
 
 
 
